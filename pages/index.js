@@ -1,5 +1,13 @@
-function Home(){
-    return <h1>Você foi hackeado😨😧😲 Caso você preze pela sua intimidade, mande um pix de 20tão no pix do vinicius, ou me passe o contato da Duda linda😍😘 "prima do pedro!"</h1>
+function Home() {
+  return (
+    <h1>
+      Preciso de um trampo, que seje 2 vezes por semana, e 2 horas por dia 🙏
+    </h1>
+  );
+}
+
+function teste() {
+  console.log("teste");
 }
 
 export default Home;
