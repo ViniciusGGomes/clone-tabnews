@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Aliceee, me manda um pix pra mim cortar o cabelo 😋😎</h1>;
+  return <h1>1-Site para amantes de astronomia,</h1>;
 }
 
 export default Home;
